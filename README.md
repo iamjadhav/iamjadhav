@@ -5,9 +5,9 @@
 
 🔎 My Interests: Computer Vision | Autonomous Robots | Machine Learning
 
-💬 Ask me about **Robotics, FC Barcelona, Argentina NT**
+📫 How to Reach me --> **adi30jadhav@gmail.com**
 
-📫 Connect with me at **adi30jadhav@gmail.com**
+💬 Ask me about --> Robotics, FC Barcelona, Argentina NT
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
