@@ -8,13 +8,14 @@
 
 ### Connect with me:
 
-[![website](./img/globe-dark.svg)](https://iamjadhav.github.io/#gh-dark-mode-only)
-&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/Nusta_Lionel#gh-dark-mode-only)
-&nbsp;
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/iamjadhav/#gh-dark-mode-only)
-&nbsp;
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/president_pique/#gh-dark-mode-only)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
 
 ### Languages and Tools:
 
