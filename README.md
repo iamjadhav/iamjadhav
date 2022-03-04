@@ -8,12 +8,16 @@
 
 ### Connect with me:
 
+[![website](./img/globe-light.svg)](https://iamjadhav.github.io/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://iamjadhav.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/Nusta_Lionel#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Nusta_Lionel#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/iamjadhav/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/iamjadhav/#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/president_pique/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/president_pique/#gh-dark-mode-only)
 
 ### Languages and Tools:
