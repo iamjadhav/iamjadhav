@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">An Aspiring Roboticist, Trekker and a Culer 🔴🔵</h3>
 
-👨‍🎓 I’m currently pursuing my Master's in Robotics at the University of Maryland
+👨‍🎓 I’m currently pursuing my Master's in Robotics at the University of Maryland, College Park
 
 🔎 My Interests: Computer Vision | Autonomous Robots | Machine Learning
 
