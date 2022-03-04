@@ -30,3 +30,4 @@
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/35e11e06e4198d1ade41f868a377efe1abc0d85078f92d55c078b972d4240ae8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6972612d2532333041304646462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a697261266c6f676f436f6c6f723d7768697465" alt="jira" width="100" height="35"/> </a></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamjadhav&show_icons=true&locale=en&theme=dracula" alt="iamjadhav" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamjadhav)](https://github.com/iamjadhav/github-readme-stats)
