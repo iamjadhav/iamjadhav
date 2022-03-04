@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">An Aspiring Roboticist, Trekker and a Culer 🔴🔵</h3>
 
+- 👨‍🎓 I’m currently pursuing my Master's in Robotics at the University of Maryland
+
+- 🔎 My Interests: Computer Vision | Autonomous Robots | Machine Learning
+
 - 💬 Ask me about **Robotics, FC Barcelona, Argentina NT**
 
 - 📫 Connect with me at **adi30jadhav@gmail.com**
