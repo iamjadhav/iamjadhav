@@ -2,9 +2,9 @@
 <h3 align="center">An Aspiring Roboticist, Trekker and a Culer 🔴🔵</h3>
 
 👨‍🎓 I’m a M.Eng Robotics Graduate from the University of Maryland, College Park.
-   I'm currently looking for Full-time job Opportunities in Robotics, Computer Vision, and Deep Learning.
+📢 I'm currently looking for Full-time job Opportunities in Robotics, Computer Vision, and Deep Learning.
 
-🔎 My Interests: Computer Vision | Autonomous Robots | Machine Learning
+🔎 My Interests: Computer Vision | Autonomous Robots | Deep learning | Machine Learning
 
 📫 How to Reach me: **adi30jadhav@gmail.com**
 
